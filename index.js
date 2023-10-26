@@ -4,7 +4,7 @@ const cron = require('node-cron');
 
 // 定义要访问的网页URL数组
 const urls = [
-  'https://www.baidu.com',
+  'https://unfortunaterotatingquerylanguage.lalihua.repl.co',
   'https://www.google.com',
   // 添加更多的URL
 ];
